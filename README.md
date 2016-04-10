@@ -1,5 +1,5 @@
-# Mulebot
-A Raspberry Pi library focused around the software that runs a robot for our engineering project at Columbus State Community College. The goal of the project is to make a robot able to navigate around obstacles while pursuing a radio signal.
+# M.U.L.E. Bot
+mulebot is a Raspberry Pi library focused around the software that runs our robot the Mechanical Ultra high frequency Load Escort Bot as a part of our final engineering project at the Columbus State Community College. The goal of the project is to make a robot able to navigate around obstacles while pursuing a radio signal.
 
 # Modules
 Mulebot is going to be made up of 5 modules: power supply, mobility, radionavigation, sonar, and the computer.
